@@ -2,7 +2,7 @@
 © vanilla Studios. All rights reserved. All trademarks are property of their respective owners in the UK and other countries.
 
 <p align="center">
-	<img src="[https://raw.githubusercontent.com/vanillastudios-gmod/impulseenhanced-media/main/impulseSkeletonSchema.png](https://i.imgur.com/fhYZyX7.png)" alt="impulse Go" />
+	<img src="https://i.imgur.com/fhYZyX7.png" alt="impulse Go" />
 </p>
 
 # Welcome to impulse Go
